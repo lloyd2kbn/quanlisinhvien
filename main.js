@@ -1,6 +1,6 @@
 
 
-var couseApi='https://lloyd2kbn.github.io/quanlisinhvien/db.json';
+var couseApi='http://localhost:3000/sinhvien';
 
 // Start ung dung
 function start(){
